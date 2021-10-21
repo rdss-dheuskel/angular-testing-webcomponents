@@ -1,0 +1,4 @@
+packages:
+  - 'pluginA/'
+  - 'pluginB/'
+  - 'shell/'
